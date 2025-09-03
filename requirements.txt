@@ -1,0 +1,11 @@
+# requirements.txt for options-backtesting
+# Add your dependencies below. Example:
+# numpy>=1.21.0
+# pandas>=1.3.0
+# matplotlib>=3.4.0
+
+numpy
+pandas
+matplotlib
+yfinance
+scipy

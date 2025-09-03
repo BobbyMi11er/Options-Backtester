@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+venv/
+outputs/*.csv
+outputs/*.xlsx
+__pycache__/
